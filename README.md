@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=yukako04)](https://github.com/yukako04/github-profile-trophy)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yukako04&theme=vue)
  
