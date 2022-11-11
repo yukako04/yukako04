@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+This is a learning account.
+We would be happy to point out any errors.
+Please forgive my silent following.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yukako04&theme=vue)
  
